@@ -11,7 +11,6 @@ DB_CONFIG = {
 }
 
 EVENT_API_URL = "https://gamma-api.polymarket.com/events"
-MARKET_API_URL = "https://gamma-api.polymarket.com/markets"
 
 PAGE_LIMIT = 500
 DELAY = 2.0
